@@ -1,7 +1,7 @@
 {
   "name": "teste-incicle",
   "version": "0.1.0",
-  "homepage": "github-page/",
+  "homepage": "github-page/teste-incicle",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.0",
