@@ -4,7 +4,7 @@
 <p align="center">Desafio-Teste proposto pela <img alt="logo" src="./src/assets/logo.svg" width="100px">
 <br/>Esse teste consiste em conhecermos um pouco o seu conhecimento na área de desenvolvimento de interfaces para internet. Sendo assim, avaliaremos o seu domínio das linguagens HTML5, CSS3 e JavaScript, assim como também a utilização do framework React.como parte do processo seletivo para a vaga de Desenvolvedor Front-End Júnior</p>
 <h4 align="center"> 
-<h2 align="center">	👨🏽‍🔧🚧 Projeto em Construção 🚧 👨🏽‍🔧 </h2>
+<h2 align="center">	👷🚧 Projeto em Construção 🚧 👷 </h2>
 
 <hr>
 
@@ -32,5 +32,5 @@ Esse teste consiste em conhecermos um pouco o seu conhecimento na área de desen
 <h2>- Visualizando o projeto 😎</h2> 
 <br/>
 <p>
-O projeto pode ser visualizado <a href="https://github.com/dayvisondunga/teste-incicle/blob/master/src/api/data.json" target="_blank">clicando aqui</a>.
+O projeto pode ser visualizado <a href="https://dayvisondunga.github.io/teste-incicle/" target="_blank">clicando aqui</a>.
 </p>
