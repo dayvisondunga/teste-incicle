@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/github-page/static/js/main.d7a94c22.chunk.js",
-    "main.js.map": "/github-page/static/js/main.d7a94c22.chunk.js.map",
-    "runtime-main.js": "/github-page/static/js/runtime-main.f91c377c.js",
-    "runtime-main.js.map": "/github-page/static/js/runtime-main.f91c377c.js.map",
-    "static/js/2.17346ce5.chunk.js": "/github-page/static/js/2.17346ce5.chunk.js",
-    "static/js/2.17346ce5.chunk.js.map": "/github-page/static/js/2.17346ce5.chunk.js.map",
-    "index.html": "/github-page/index.html",
-    "static/js/2.17346ce5.chunk.js.LICENSE.txt": "/github-page/static/js/2.17346ce5.chunk.js.LICENSE.txt",
-    "static/media/logo.afa17334.svg": "/github-page/static/media/logo.afa17334.svg"
+    "main.js": "/teste-incicle/static/js/main.e8453807.chunk.js",
+    "main.js.map": "/teste-incicle/static/js/main.e8453807.chunk.js.map",
+    "runtime-main.js": "/teste-incicle/static/js/runtime-main.8fe822b8.js",
+    "runtime-main.js.map": "/teste-incicle/static/js/runtime-main.8fe822b8.js.map",
+    "static/js/2.2a6967bc.chunk.js": "/teste-incicle/static/js/2.2a6967bc.chunk.js",
+    "static/js/2.2a6967bc.chunk.js.map": "/teste-incicle/static/js/2.2a6967bc.chunk.js.map",
+    "index.html": "/teste-incicle/index.html",
+    "static/js/2.2a6967bc.chunk.js.LICENSE.txt": "/teste-incicle/static/js/2.2a6967bc.chunk.js.LICENSE.txt",
+    "static/media/logo.afa17334.svg": "/teste-incicle/static/media/logo.afa17334.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f91c377c.js",
-    "static/js/2.17346ce5.chunk.js",
-    "static/js/main.d7a94c22.chunk.js"
+    "static/js/runtime-main.8fe822b8.js",
+    "static/js/2.2a6967bc.chunk.js",
+    "static/js/main.e8453807.chunk.js"
   ]
 }
