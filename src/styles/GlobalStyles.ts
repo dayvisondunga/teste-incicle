@@ -26,9 +26,10 @@ export default createGlobalStyle`
   }
   :root {
     --white: #ffffff;
-    --gray: #d3d3d3;
-    --color-background: #f5f5f5;
+    --gray: #f5f5f5;
+    --color-background: #d3d3d3;
     --black: rgba(0,0,0);
     --text-endo: #707070;
+    --color-box: #FDD598;
   }
 `;
